@@ -193,7 +193,7 @@ const Characters = () => {
                 className="w-20 h-20 bg-gray-800/50 rounded-md flex 
                     items-center justify-center mb-2"
               >
-                <img src="public\images\VIKI.png" alt="VIKI-IMG" />
+                <img src="\images\VIKI.png" alt="VIKI-IMG" />
               </div>
               {/* Star rating */}
               <div className="flex">
@@ -228,7 +228,7 @@ const Characters = () => {
                 className="w-20 h-20 bg-gray-800/50 rounded-md flex 
                     items-center justify-center mb-2"
               >
-                <img src="public\images\EVA.png" alt="EVA-IMG" />
+                <img src="\images\EVA.png" alt="EVA-IMG" />
               </div>
               {/* Star rating */}
               <div className="flex">
